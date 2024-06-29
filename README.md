@@ -15,7 +15,15 @@ This is a simple task management application built with Flutter and Firebase. Th
 - **Responsive UI**: Ensures a user-friendly interface on various devices.
 
 ## Screenshots
-![Login Screen](loginscreen.jpg) ![SignUp Screen](signupscreen.jpg) ![Empty Task Screen](emptytask.jpg)  ![Add new task Screen](addnewtask.jpg) ![Task Screen](taskscreen.jpg) ![Update Task Screen](updatetask.jpg)
+<p align="center">
+  <img src="loginscreen.jpg" alt="Login Screen" width="150"/>
+  <img src="signupscreen.jpg" alt="SignUp Screen" width="150"/>
+  <img src="emptytask.jpg" alt="Empty Task Screen" width="150"/>
+  <img src="addnewtask.jpg" alt="Add New Task Screen" width="150"/>
+  <img src="taskscreen.jpg" alt="Task Screen" width="150"/>
+  <img src="updatetask.jpg" alt="Update Task Screen" width="150"/>
+</p>
+
 
 ## Installation
 Follow these steps to set up and run the project:
