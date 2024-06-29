@@ -66,4 +66,26 @@ Follow these steps to set up and run the project:
 ### Notifications
 - The app will send a local notification 10 minutes before the task's deadline.
 
-## Project Structure
+
+## Dependencies
+- `firebase_core`
+- `firebase_auth`
+- `cloud_firestore`
+- `provider`
+- `flutter_local_notifications`
+- `google_fonts`
+
+## Troubleshooting
+- Ensure that `google-services.json` is correctly placed in the `android/app` directory.
+- Verify that Firebase Authentication and Firestore are correctly set up in the Firebase Console.
+- Check the console for any errors and follow the suggested steps to resolve them.
+
+## Contributing
+If you find any bugs or have feature requests, please open an issue or create a pull request.
+
+## License
+This project is licensed under the MIT License.
+
+## Contact
+For any queries or issues, please contact me at [bhupender7678362318@gmail.com](mailto:bhupender7678362318@gmail.com).
+
