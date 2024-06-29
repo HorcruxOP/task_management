@@ -21,7 +21,7 @@ This is a simple task management application built with Flutter and Firebase. Th
   <img src="emptytask.jpg" alt="Empty Task Screen" width="150"/>
   <img src="addnewtask.jpg" alt="Add New Task Screen" width="150"/>
   <img src="taskscreen.jpg" alt="Task Screen" width="150"/>
-  <img src="updatetask.jpg" alt="Update Task Screen" width="150"/>
+  <img src="updatescreen.jpg" alt="Update Task Screen" width="150"/>
 </p>
 
 
