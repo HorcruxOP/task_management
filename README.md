@@ -30,7 +30,7 @@ Follow these steps to set up and run the project:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/task_management_app.git
+    git clone https://github.com/HorcruxOP/task_management_app.git
     cd task_management_app
     ```
 
